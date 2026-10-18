@@ -65,4 +65,6 @@ Sabré que el diseño funciona si en las pruebas se cumple esto:
 
 **Investigación, Personas, MVP y Sitemap:** [Tablero en FigJam](https://www.figma.com/board/JU5khbn1JiyOxVHxUXTHKZ/Proyecto-DIW?node-id=45-1389&p=f&t=Irm66x6CWXeL0B5y-0)
 
-**Wireframes y Prototipo Navegable:** [Archivo en Figma Design](https://www.figma.com/board/JU5khbn1JiyOxVHxUXTHKZ/Proyecto-DIW?node-id=45-1389&p=f&t=Irm66x6CWXeL0B5y-0)
+**Figma Design, Wireframes:** [Archivo en Figma Design](https://www.figma.com/design/rXQT0CUpgMyoFADKGzxZMx/wireframe-proyecto-DIW?t=Irm66x6CWXeL0B5y-0)
+
+**Figma Design, Prototipo Navegable:** [Prototipo](https://www.figma.com/proto/rXQT0CUpgMyoFADKGzxZMx/wireframe-proyecto-DIW?t=Irm66x6CWXeL0B5y-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=85-356&starting-point-node-id=85%3A356&show-proto-sidebar=1)
