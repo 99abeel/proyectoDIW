@@ -27,4 +27,12 @@ Usar HTML, CSS y JavaScript para el frontend, Node.js con base de datos para el 
 ### Criterio propio:
 Descarté algunas cosas que me dijo para implementar debido a la complejidad.
 
+## 3. Stitch
+Mandandole el png de mi landing page: "hazlo siguiendo el Wireframe, no me hagas ya el mockup. Simplemente mejoralo con algo para que sea mas atractivo"
+### Con que me quedé:
+Mejoras aplicadas manteniendo el espíritu Wireframe, Retícula y Fondo de Diseño (Grid Blueprint), Tipografía y Jerarquía Visual.
+### Criterio propio:
+Quité algunos botones que me dió y no me gustaba como quedaba. 
+
+
 ---
